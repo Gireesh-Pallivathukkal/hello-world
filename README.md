@@ -1,2 +1,2 @@
 # hello-world
-learn new technologies , develop basic programming skills and understand new concepts, adapt in internal projects
+learn new technologies , refresh programming skills , get to know new concepts, lifelong learning
